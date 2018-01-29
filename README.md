@@ -6,6 +6,8 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: JakeSelfie.PNG
 
 2. Tell me something interesting about yourself
+
+I enjoy hiking, playing the saxophone, and flying drones.
